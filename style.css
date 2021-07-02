@@ -1,0 +1,18 @@
+body{
+    background-image: url("Race_Track.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#myCanvas{
+
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+    background-image: url(track.jpg);
+}
+
+h1,h4,h2 
+{
+    color: white !important;
+}
